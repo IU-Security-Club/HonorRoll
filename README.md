@@ -1,5 +1,4 @@
-HonorRoll
-{: .fs-10 } 
+# HonorRoll
 
 ___
 
