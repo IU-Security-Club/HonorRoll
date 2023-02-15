@@ -1,4 +1,4 @@
-# HonorRoll
+{: .fs-1 } HonorRoll
 
 ___
 
