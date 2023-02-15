@@ -1,6 +1,5 @@
-<p align='center'>
-    #HonorRoll
-</p>
+#HonorRoll
+
 
 ___
 
