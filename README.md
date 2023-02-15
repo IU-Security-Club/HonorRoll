@@ -1,5 +1,5 @@
 <p align='center'>
-    <font size=7>HonorRoll</font>
+    #HonorRoll
 </p>
 
 ___
