@@ -1,6 +1,6 @@
 # HonorRoll
 
-We giving special thanks to our lecturerS, for the whole time during our activities, both knowledge and experiment.
+We giving special thanks to our lecturers, for the whole time during our activities, both knowledge and experiment.
 
 
 
