@@ -40,11 +40,11 @@ Once IUSec, always IUSec.
 | K18                      | ![](./img/Tran_Gia_Phu.jpg "phulelouch") Tran Gia Phu / [FB](https://www.facebook.com/trangiaphu.tran.7) | | |
 | K19                      | ![](./img/Truong_Cong_Trung.jfif "trungtc") Truong Cong Trung / [Linkedin](https://www.linkedin.com/in/cong-trung-214068140/) | ![](./img/Bui_The_Sang.jfif "goldensang") Bui The Sang / [Linkedin](https://www.linkedin.com/in/sang-bui-8068b0200/) | ![](./img/Le_Tran_Phong.jpg "tpo") Le Tran Phong / [Linkedin](https://www.linkedin.com/in/ltphong/) |
 |                          | ![](./img/Le_Trieu_Long.jpg "Le Trieu Long") Le Trieu Long / [Linkedin](https://www.linkedin.com/in/long-le-trieu-25a1b0180/) | ![](./img/Dinh_Nho_Phu_Thinh.jpg "Dinh Nho Phu Thinh") Dinh Nho Phu Thinh / [FB](https://www.facebook.com/profile.php?id=100028310315873) | |
-| K21                      |  | | |
-| K22                      |  |  |  |
-|                          |  |  |  |
-|                          |  |  |  |
-|                          |  | | |
+| K21                      | ![](./img/Nguyen_Manh_Viet_Khoi.png "Qrious64") Nguyen Manh Viet Khoi / [Linkedin]() | | |
+| K22                      | ![](./img/Le_Nguyen_Tan_Phat.jpg "Parrottos") Le Nguyen Tan Phat / [Linkedin]() | ![](./img/Hoang_Nhan_Kiet.jpg "yui") Hoang Nhan Kiet / [Linkedin]() | ![](./img/Tran_Nhat_Minh.jpg "TMinh") Tran Nhat Minh / [Linkedin]() |
+|                          | ![](./img/Nguyen_Duy.png "ND") Nguyen Duy / [Linkedin]() | ![](./img/Do_Minh_Duy.jpg "yui") Do Minh Duy / [Linkedin]() | ![](./img/Tran_Anh_Van.jpg "Dylan") Tran Anh Van / [Linkedin]() |
+|                          | ![](./img/Nguyen_Ha_An_Thanh.png "sicula") Nguyen Ha An Thanh / [Linkedin]() |  |  |
+
 
 </div>
 
