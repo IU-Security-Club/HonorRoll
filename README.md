@@ -10,7 +10,7 @@ ___
 | ![Dr. Le Hai Duong](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t4CT4pAAAAAJ&citpid=4) | Dr. Le Hai Duong / [GoogleScholar](https://scholar.google.com/citations?user=t4CT4pAAAAAJ) / [hcmiu](https://it.hcmiu.edu.vn/user/lhduong/) | <div align='right'><font size=2>before 2019; 2021-2022</font></div> |
 | ![Dr. Amin Dastanpour](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Cyw0j-0AAAAJ&citpid=2) | Dr. Amin Dastanpour / [GoogleScholar](https://scholar.google.com/citations?user=Cyw0j-0AAAAJ) | <div align='right'><font size=2>2019</font></div> |
 | ![Assoc. Prof. Vo Thi Luu Phuong](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6DmQXO4AAAAJ&citpid=4) | Assoc. Prof. Vo Thi Luu Phuong / [GoogleScholar](https://scholar.googleusercontent.com/citations?user=6DmQXO4AAAAJ) / [hcmiu](https://it.hcmiu.edu.vn/user/vtlphuong/) | <div align='right'><font size=2>2020</font></div> |
-| ![Dr. Le Duy Tan](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HuS8cg0AAAAJ&citpid=4) | Dr. Le Duy Tan / [GoogleScholar](https://scholar.google.com/citations?user=HuS8cg0AAAAJ) / [hcmiu](https://it.hcmiu.edu.vn/user/ldtan/) | <div align='right'><font size=2>2022 - now</font></div> |
+| ![Dr. Le Duy Tan](https://it.hcmiu.edu.vn/wp-content/uploads/ultimatemember/58/profile_photo-190x190.jpg?1732080136) | Dr. Le Duy Tan / [GoogleScholar](https://scholar.google.com/citations?user=HuS8cg0AAAAJ) / [hcmiu](https://it.hcmiu.edu.vn/user/ldtan/) | <div align='right'><font size=2>2022 - now</font></div> |
 
 </div>
 
