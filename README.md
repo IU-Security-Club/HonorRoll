@@ -42,9 +42,9 @@ Once IUSec, always IUSec.
 |                          | ![](./img/Le_Trieu_Long.jpg "Le Trieu Long") Le Trieu Long / [Linkedin](https://www.linkedin.com/in/long-le-trieu-25a1b0180/) | ![](./img/Dinh_Nho_Phu_Thinh.jpg "Dinh Nho Phu Thinh") Dinh Nho Phu Thinh / [FB](https://www.facebook.com/profile.php?id=100028310315873) | |
 | K21                      | ![](./img/Nguyen_Manh_Viet_Khoi.png "Qrious64") Nguyen Manh Viet Khoi / [Linkedin]() | | |
 | K22                      | ![](./img/Le_Nguyen_Tan_Phat.jpg "Parrottos") Le Nguyen Tan Phat / [Linkedin]() | ![](./img/Hoang_Nhan_Kiet.jpg "yui") Hoang Nhan Kiet / [Linkedin]() | ![](./img/Tran_Nhat_Minh.jpg "TMinh") Tran Nhat Minh / [Linkedin]() |
-|                          | ![](./img/Nguyen_Duy.png "ND") Nguyen Duy / [Linkedin]() | ![](./img/Do_Minh_Duy.jpg "yui") Do Minh Duy / [Linkedin]() | ![](./img/Tran_Anh_Van.jpg "Dylan") Tran Anh Van / [Linkedin]() |
-|                          | ![](./img/Nguyen_Ha_An_Thanh.png "sicula") Nguyen Ha An Thanh / [Linkedin]() |  |  |
-
+|                          | ![](./img/Nguyen_Duy.png "ND") Nguyen Duy / [Linkedin]() | ![](./img/Do_Minh_Duy.jpg "ND") Do Minh Duy / [Linkedin]() | ![](./img/Tran_Anh_Van.jpg "Dylan") Tran Anh Van / [Linkedin]() |
+|                          | ![](./img/Nguyen_Ha_An_Thanh.png "sicula") Nguyen Ha An Thanh / [Linkedin]() | ![](./img/Huynh_Chung_Duy_Thuc.png "") Huynh Chung Duy Thuc / [Linkedin]() | ![](./img/Do_Huynh_Duy_Tien.png "") Do Huynh Duy Tien / [Linkedin]() |
+|                          | ![](./img/Nguyen_Quoc_Tuan.png "") Nguyen Quoc Tuan / [Linkedin]() |  |  |
 
 </div>
 
